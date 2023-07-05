@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sreyasree-001
+- 👋 I'm Sreyasree Sasmal
 - 🔰 Currently pursuing B.Tech in Computer Science and Engineering
 - 🌐 Working on Frontend-development
 - 💻 Grasped knowledge of C,HTML,CSS
