@@ -1,6 +1,6 @@
 <h1 align="center">Hi!! 👋 Sreyasree this side!</h1>
 <h3 align="center">A passionate frontend-developer from India</h3>
-
+<image style="width:430px;" src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966" alt="image" align="right" ></image>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyasree-001&label=Profile%20views&color=0e75b6&style=flat" alt="sreyasree-001" /> </p>
 
  -  👋 I'm Sreyasree Sasmal 
