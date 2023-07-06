@@ -8,7 +8,7 @@
 
 - 🔰 Currently pursuing B.Tech in Computer Science and Engineering  
 
-- 🌐 I'm Working on Frontend-development 
+- 🌐 Working on Frontend-development 
 
 - 💻 Grasped knowledge of **C,HTML,CSS**
 
